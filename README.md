@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Paulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Paulo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/596128688139927593/1046417522871775272/PauloRicardo.gif">
+  <img align="right" alt="Paulo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/596128688139927593/1037399922456137728/download20221103130852.png">
 </div>
   
   ##
