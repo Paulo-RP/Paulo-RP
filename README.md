@@ -16,3 +16,5 @@
 
 <img align="right" alt="Paulo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/596128688139927593/1037399922456137728/download20221103130852.png">
 </div>
+
+Apaixonado por tecnologia, acredite ela mudará sua vida, faça da tecnologia o tempero para sua vida.
