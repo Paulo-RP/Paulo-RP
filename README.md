@@ -1,12 +1,12 @@
 ### Olá, eu sou Paulo Ricardo 👋
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte ...
+
 - 🌱 Estou aprendendo linguagens de back-end como C# e Python ...
-- 🌱 Front-End em desenvolvimento constante nas linguagem de marcação: HTML, CSS
-- 🌱 Estudante de Engenharia da Computação ...
+- 🌱 Estudante de Engenharia da Computação... Loading<img align="center" alt="Paulo-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1072521168608829485/1072521232379027527/gif-carregando-loading.gif">
+</div>
 
 ![Paulo Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-RP&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-RP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
