@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando como Analista de Suporte ...
 
 - 🌱 Estou aprendendo linguagens de back-end como C# e Python ...
-- 🌱 Estudante de Engenharia da Computação... Loading<img align="center" alt="Paulo-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1072521168608829485/1072521232379027527/gif-carregando-loading.gif">
+- 🌱 Estudante de Engenharia da Computação | 8° Semestre ... Loading<img align="center" alt="Paulo-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1072521168608829485/1072521232379027527/gif-carregando-loading.gif">
 </div>
 
 ![Paulo Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-RP&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-RP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
