@@ -1,7 +1,6 @@
 ### Olá, eu sou Paulo Ricardo 👋
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte ...
-
 - 🌱 Estou aprendendo linguagens de back-end como C# e Python ...
 - 🌱 Estudante de Engenharia da Computação | 8° Semestre ... Loading<img align="center" alt="Paulo-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1072521168608829485/1072521232379027527/gif-carregando-loading.gif">
 </div>
