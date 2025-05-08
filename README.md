@@ -1,6 +1,6 @@
 ### Hello, how are you?, i'm Paulo Ricardo! 👋
 
-🔭 I am currently working as a freelancer...
+🔭 I currently have a small IT support company, where I work a lot with computer networks and remote and physical support.
 - 🌱 Improving skills in front-end languages ​​such as JS, and HTML and CSS markup languages...
 - 🌱 Computer Engineering .<img align="center" alt="Paulo-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1072521168608829485/1072521232379027527/gif-carregando-loading.gif">
 </div>
