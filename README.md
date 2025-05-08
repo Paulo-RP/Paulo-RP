@@ -1,4 +1,4 @@
-### Hello, how are you?, i'm Paulo Ricardo! 👋
+### Hello, how are you? i'm Paulo Ricardo! 👋
 
 🔭 I currently have a small IT support company, where I work a lot with computer networks and remote and physical support.
 - 🌱 Improving skills in front-end languages ​​such as JS, and HTML and CSS markup languages...
