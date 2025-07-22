@@ -1,16 +1,41 @@
-### Hello, how are you? i'm Paulo Ricardo! 👋
+# Hello, I'm Paulo Ricardo! 👋  
 
-🔭 I currently have a small IT support company, where I work a lot with computer networks and remote and physical support.
-- 🌱 Improving skills in front-end languages ​​such as JS, and HTML and CSS markup languages...
-- 🌱 Computer Engineering .<img align="center" alt="Paulo-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1072521168608829485/1072521232379027527/gif-carregando-loading.gif">
-</div>
+🚀 **IT Support Specialist** transitioning to **FullStack Developer** (JavaScript | React | Node.js)  
+📚 **Computer Engineer** | Passionate about tech that transforms lives  
 
-<div align = "left">
+---
 
-<img height = "220rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-RP&show_icons=true&theme=chartreuse-dark&count_private=true/">
-</div>
+### **🛠️ Tech Stack (Learning & Improving)**  
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://wa.me/5511913339962) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloricardo-1994/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo_kadu/) 
+**Front-End**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 
-Apaixonado por tecnologia, acredite ela mudará sua vida, faça da tecnologia o tempero para sua vida.
+**Back-End**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+---
+
+### **📈 GitHub Stats**  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-RP&show_icons=true&theme=chartreuse-dark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-RP&layout=compact&theme=chartreuse-dark" />
+</div>  
+
+---
+
+### **📫 Let's Connect!**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloricardo-1994/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511913339962)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo_kadu/)  
+
+🌟 *"Technology is the spice of life — use it to flavor your journey!"* 
