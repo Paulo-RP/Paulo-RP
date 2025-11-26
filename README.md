@@ -23,15 +23,6 @@
 
 ---
 
-### **📈 GitHub Stats**  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-RP&show_icons=true&theme=chartreuse-dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-RP&layout=compact&theme=chartreuse-dark" />
-</div>  
-
----
-
 ### **📫 Let's Connect!**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloricardo-1994/)
