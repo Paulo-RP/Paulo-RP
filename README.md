@@ -1,7 +1,6 @@
 # Hello, I'm Paulo Ricardo! 👋  
 
-🚀 **Computer Engineer | Backend Focus (Python)**  
-📚 **Computer Engineer** | Passionate about tech that transforms lives  
+🚀 **Computer Engineer | Backend Focus (Python)**    
 
 ---
 
