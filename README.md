@@ -1,6 +1,6 @@
 # Hello, I'm Paulo Ricardo! 👋  
 
-🚀 **IT Support Specialist** transitioning to **Developer**  
+🚀 **Computer Engineer | Backend Focus (Python)**  
 📚 **Computer Engineer** | Passionate about tech that transforms lives  
 
 ---
